@@ -13,7 +13,7 @@ PCF8574 pcf8574(0x3F);
 // Connection Details
 
 const char* ssid     = "Dialog 4G 8D8";
-const char* password = "H69eaF5M";
+const char* password = "*******";
 
 const char* mqttServer = "test.mosquitto.org";
 const int mqttPort = 1883;
