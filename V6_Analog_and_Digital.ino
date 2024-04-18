@@ -196,7 +196,7 @@ void setup() {
     pinMode(analogPins[i], INPUT);
   }
 
-  // GPIO Declaration - Analog
+  // GPIO Declaration - Digital
   for (int i = 0; i < 8; i++) {
     pinMode(digitalPins[i], INPUT);
   }
